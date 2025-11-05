@@ -1,0 +1,87 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Data
+data/MNIST/
+*.pkl
+*.pickle
+
+# Models and checkpoints
+models/*.pth
+models/*.pt
+models_optimized/*.pth
+models_optimized/*.pt
+*.pth
+*.pt
+
+# Logs
+logs/*.log
+logs/*.txt
+logs/*.json
+logs_optimized/*.log
+logs_optimized/*.txt
+logs_optimized/*.json
+*.log
+
+# Results (keep directory structure but ignore generated files)
+results/plots/*.png
+results/plots/*.jpg
+results/plots/*.pdf
+results/metrics/*.csv
+results/metrics/*.json
+results_optimized/plots/*.png
+results_optimized/plots/*.jpg
+results_optimized/plots/*.pdf
+results_optimized/metrics/*.csv
+results_optimized/metrics/*.json
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+temp/
+*.tmp

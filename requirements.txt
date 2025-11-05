@@ -1,0 +1,13 @@
+qiskit==1.2.4
+qiskit-machine-learning==0.8.0
+qiskit-aer==0.15.1
+torch==2.5.1
+torchvision==0.20.1
+numpy==1.26.4
+matplotlib==3.9.2
+scikit-learn==1.5.2
+jupyter==1.1.1
+notebook==7.2.2
+pandas==2.2.3
+seaborn==0.13.2
+tqdm==4.66.5
